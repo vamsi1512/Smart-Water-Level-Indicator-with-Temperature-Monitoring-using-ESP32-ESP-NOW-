@@ -1,0 +1,2 @@
+# Smart-Water-Level-Indicator-with-Temperature-Monitoring-using-ESP32-ESP-NOW-
+This project presents a low-cost, wireless IoT solution for monitoring water levels and temperature in overhead tanks using ESP32 microcontrollers. It uses ESP-NOW protocol for wireless data transfer, an ultrasonic sensor for water level detection, a DS18B20 sensor for temperature measurement, and a 16x2 LCD + buzzer for display and alerts.
